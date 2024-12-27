@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao meu perfil do GitHub!
 
 ### Sobre mim
-🌟 Olá! Sou Rodrigo Martins, um(a) desenvolvedor(a) apaixonado(a) por surf e tecnologia.
+🌟 Olá! Sou Rodrigo Martins, um desenvolvedor apaixonado por surf e tecnologia.
 
 💼 Atualmente, estou trabalhando em projetos privados  
 🎯 Meu foco atual é Angular e C#  
